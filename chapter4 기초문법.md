@@ -4,7 +4,7 @@
 - 논리 부정 연산자 : !
 
 |A|B|&#38;&#38;|&#124;|
-|------|---|---|
+|------|---|---|-----|
 |`true` | `true` | `true`|`false`|
 |`true` | `false` | `false`|`true`|
 |`true` | `true` | `true`|`false`|
