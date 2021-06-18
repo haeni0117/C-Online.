@@ -6,3 +6,4 @@
 | A | B | && | '||' |
 |---|----|----|---|----|
 `true` | `true` | `true`|`false`
+`true` | `false` | `false`|`true`
