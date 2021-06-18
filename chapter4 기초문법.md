@@ -24,3 +24,30 @@
 - `^`,`&`,`|`,`~`
 ### null 병합연산자
 - null값을 체크하는 연산자
+- source code #41
+```namespace _041_Operator_null
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int? a = null;
+            int b = 10;
+            int? c = null;
+            int d = 100;
+            int result;
+
+            result = a ?? b;
+            Console.WriteLine("result: " + result);
+
+            result = a ?? c ?? d;
+            Console.WriteLine("result: " + result);
+        }
+    }
+}
+```
+`int?` 는 int형과 null 모두 저장할 수 있지만, `int`는 오직 int형만 가능하다. 따라서 int형인 b라는 변수에 null값은 저장할 수 없다. 
+```
+int b = null (x)
+int? a = null (o)
+```
