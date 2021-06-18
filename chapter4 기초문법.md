@@ -3,10 +3,10 @@
 - 조건부 논리 : && ||
 - 논리 부정 연산자 : !
 
-|A|B|&#38;&#38;|&#124;|
+|A|B|&#38;&#38;|&#124;&#124;|
 |------|---|---|-----|
-|`true` | `true` | `true`|`false`|
+|`true` | `true` | `true`|`true`|
 |`true` | `false` | `false`|`true`|
-|`true` | `true` | `true`|`false`|
-|`true` | `false` | `false`|`true`|
+|`false` | `true` | `false`|`true`|
+|`false` | `false` | `false`|`false`|
 
