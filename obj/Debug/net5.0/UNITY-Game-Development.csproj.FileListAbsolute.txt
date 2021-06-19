@@ -1,0 +1,15 @@
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.csprojAssemblyReference.cache
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.AssemblyInfoInputs.cache
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.AssemblyInfo.cs
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.csproj.CoreCompileInputs.cache
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/bin/Debug/net5.0/UNITY-Game-Development.deps.json
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/bin/Debug/net5.0/UNITY-Game-Development.runtimeconfig.json
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/bin/Debug/net5.0/UNITY-Game-Development.runtimeconfig.dev.json
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/bin/Debug/net5.0/UNITY-Game-Development.dll
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/bin/Debug/net5.0/ref/UNITY-Game-Development.dll
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/bin/Debug/net5.0/UNITY-Game-Development.pdb
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.dll
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/ref/UNITY-Game-Development.dll
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.pdb
+/Users/gimsuyeon/Documents/GitHub/UNITY-Game-Development/obj/Debug/net5.0/UNITY-Game-Development.genruntimeconfig.cache
